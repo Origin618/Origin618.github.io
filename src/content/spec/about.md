@@ -1,7 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the demo site for [Origin](https://github.com/Origin618/origin618.github.io).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="Origin618/origin618.github.io"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
