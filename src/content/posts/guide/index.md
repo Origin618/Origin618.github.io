@@ -1,6 +1,6 @@
 ---
 title: Simple Guides for Astro
-published: 2024-04-01
+published: 2025-08-05
 description: "How to use this blog template."
 image: "./cover.jpeg"
 tags: ["Astro", "Blogging", "Customization"]
