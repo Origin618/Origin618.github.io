@@ -1,6 +1,6 @@
 ---
 title: Draft Example
-published: 2022-07-01
+published: 2025-08-05
 tags: [Markdown, Blogging, Demo]
 category: Examples
 draft: true
